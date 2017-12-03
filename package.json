@@ -1,0 +1,29 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "chai": "^4.1.2",
+    "github-api": "^3.0.0",
+    "lodash": "^4.17.4",
+    "rewire": "^3.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z4m0/playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z4m0/playground/issues"
+  },
+  "homepage": "https://github.com/z4m0/playground#readme"
+}
